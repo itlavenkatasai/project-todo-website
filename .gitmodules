@@ -1,0 +1,6 @@
+[submodule "To-Do-List-Back-End"]
+	path = To-Do-List-Back-End
+	url = git@github.com:itlavenkatasai/To-Do-List-Back-End.git
+[submodule "To-Do-List-Front-End"]
+	path = To-Do-List-Front-End
+	url = git@github.com:itlavenkatasai/To-Do-List-Front-End.git
